@@ -88,7 +88,7 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Dipuranjan Sethy</Logo>
+        <Logo>Ankush Koushar</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
@@ -103,7 +103,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2024 Dipuranjan Sethy. All rights reserved.
+          &copy; 2024 Ankush Koushar. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
