@@ -8,7 +8,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   // github: "https://github.com/dipuranjansethy",  
   resume:
-    "https://drive.google.com/file/d/1Ha1VjrA1lCXKkmqqbcwefisL5Ni2nxC5/view",
+    "https://drive.google.com/drive/folders/1tjCzUyV0qYqSQiV0Tr7Tp5if7skXpsfE",
   linkedin: "https://www.linkedin.com/in/ankush-koushar-323695270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   twitter: "https://x.com/ankushkoushar7?t=2CErpJFU3Z6_LgJQHvd97A&s=08",
   insta: "https://www.instagram.com/ankush_koushar_07?igsh=MTVrOWM0OHp1eGNpYw==",
